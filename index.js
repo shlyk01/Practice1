@@ -142,3 +142,9 @@ console.log(userAge) // 23
 let userHeight = 180
 userHeight--
 console.log(userHeight) // 179 
+
+
+console.log(typeof('hello') ); // String 
+console.log(typeof(123) ); // Number
+console.log(typeof(true) ); // Boolean
+console.log(typeof(undefined) ); // undefined 
